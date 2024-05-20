@@ -5,8 +5,6 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import os
 import streamlit as st
-import psycopg2
-
 from dotenv import load_dotenv
 from streamlit_option_menu import option_menu
 from study_bot_UI import CPT
