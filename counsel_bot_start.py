@@ -1,7 +1,7 @@
 # streamlit cloud 사용 시 필요
-import sqlite3
+import pysqlite3
 import sys
-sys.modules['pysqlite3'] = sys.modules.pop('sqlite3')  # 로컬 디비
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')  # 로컬 디비
 
 import os
 import streamlit as st
