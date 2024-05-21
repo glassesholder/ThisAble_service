@@ -8,7 +8,7 @@ import streamlit as st
 
 from dotenv import load_dotenv
 from streamlit_option_menu import option_menu
-from study_bot_UI import CPT
+from counsel_bot_UI import CPT
 
 # .env 파일 로드
 load_dotenv()
