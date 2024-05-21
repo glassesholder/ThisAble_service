@@ -1,0 +1,432 @@
+{
+  "FileInfo": {
+    "filename": "K2-00002-CL21649-CP31111-08-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4058",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50126",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00002"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21649",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 자주 외롭다",
+        "나는 정보처리기사 자격증을 취득했다",
+        "나는 노트북을 잘 활용한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31111",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 중학교 영어 교사이다",
+        "나는 축구를 자주 한다",
+        "나는 봄을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-09",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "결혼관"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00002-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "안녕하세요 저는 20대 여성입니다.",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-10-31",
+          "time": "15:18:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "안녕하세요 저는 30대 남성입니다.",
+          "summary": "나는 30대 남성이다.",
+          "date": "2022-10-31",
+          "time": "16:52:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "요즘 날씨가 쌀쌀해서 자주 외로워요..",
+          "summary": "나는 요즘 날씨가 쌀쌀해져서 자주 외롭다.",
+          "date": "2022-11-01",
+          "time": "09:54:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "가을이 오긴 왔나보네요ㅎㅎ 아마 좋은 인연 찾을 수 있으실 꺼예요!",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "13:34:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "네 저번주까지 시험공부를 하느라 못 놀았는데 이제 실컷 놀아야죠",
+          "summary": "나는 저번 주까지 시험공부 때문에 바빠서 못 놀았다.",
+          "date": "2022-11-01",
+          "time": "14:43:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 이제 곧 연말인데 따로 계획이 있으신가요..?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "15:10:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "아직 계획을 못세웠어요 계획있으신가요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "18:26:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "저는 축구를 좋아해서 주말마다 축구동호회를 참석하는데 이제 연말이라 동호회 회원분들과 회식을 갖지 않을까 싶네요.",
+          "summary": "나는 축구를 좋아해서 주말마다 축구동호회를 참석한다.",
+          "date": "2022-11-03",
+          "time": "14:54:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "저도 저번주에 정보처리기사 자격증을 취득해서 이제 스터디친구들하고 맛있는거 먹으러 갈 것 같아요",
+          "summary": "나는 저번 주에 정보처리기사 자격증을 취득했다.",
+          "date": "2022-11-03",
+          "time": "16:22:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "아하 그렇군요 친구들이랑 좋은추억 만드셨으면 좋겠습니다. 저는 지금 중학교영어교사로 학생들을 가르치고 있는데 곧 기말고사 기간이라 시험문제를 만들어야합니다.",
+          "summary": "나는 중학교 영어교사이다. 나는 곧 기말고사 기간이라 시험문제를 만들어야 한다.",
+          "date": "2022-11-04",
+          "time": "22:20:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "시험문제는 데스크탑으로 만드시나요? 저는 노트북 활용을 잘해요!",
+          "summary": "나는 노트북 활용을 잘한다.",
+          "date": "2022-11-04",
+          "time": "23:52:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "아하 그렇군요 확실히 노트북 활용을 잘 하시면 실무에서도 도움이 많이 되는거 같더라고요 님은 싫어하시는 계절이 있으신가요?",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "23:26:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "저는 더운 여름이 너무 싫습니다. 더워서 짜증이 쉽게 나거든요",
+          "summary": "나는 더운 여름이 싫다.",
+          "date": "2022-11-06",
+          "time": "01:08:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "그러시군요 확실히 여름엔 날이 많이 습해서 불쾌지수가 많이 높죠 저는 봄을 싫어합니다 제가 비염이 있어서 봄만 되면 비염이 심해지거든요.",
+          "summary": "나는 비염이 심해지는 봄을 싫어한다.",
+          "date": "2022-11-06",
+          "time": "15:27:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 제가 이제 수업을 가봐야해서요 다음에 또 기회가되면 연락했으면 좋겠네요 안녕히계세요~",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "22:45:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 요즘 날씨가 쌀쌀해져서 자주 외롭다.",
+          "나는 저번 주까지 시험공부 때문에 바빠서 못 놀았다.",
+          "나는 저번 주에 정보처리기사 자격증을 취득했다.",
+          "나는 노트북 활용을 잘한다.",
+          "나는 더운 여름이 싫다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 축구를 좋아해서 주말마다 축구동호회를 참석한다.",
+          "나는 중학교 영어교사이다. 나는 곧 기말고사 기간이라 시험문제를 만들어야 한다.",
+          "나는 비염이 심해지는 봄을 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00002-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00002-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "안녕하세요 3주만이네요 잘 지내셨나요?",
+          "summary": "나는 3주 만이다.",
+          "date": "2022-11-09",
+          "time": "17:53:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 거의 한달만에 연락드리네요 저는 학생들이랑 수업하고 요즘 수행평가기간이라 애들 수행평가좀 지도해주면서 시간을 보냈습니다.",
+          "summary": "나는 학생들 이과 수업하고 요즘 수행평가기간이라 아이들 수행평가를 지도해주면서 시간을 보냈다.",
+          "date": "2022-11-10",
+          "time": "23:37:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "아 그러시군요 저도 회사 집 반복하면서 지냈습니다",
+          "summary": "나도 회사 집을 반복하며 평범하게 살았다.",
+          "date": "2022-11-11",
+          "time": "10:10:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "아하 그렇군요 요즘 삶은 어떠신가요? 지금 만나는 연인이 있으세요?",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "00:15:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "네 1년 정도 만난 남자친구가 있어요 슬슬 결혼얘기가 나오네요",
+          "summary": "나는 1년 정도 만난 남자 친구가 있는데 슬슬 결혼 얘기가 나오고 있다.",
+          "date": "2022-11-13",
+          "time": "01:42:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "아하 그러시군요 결혼은 빨리 하는게 좋다고 생각하시나요?",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "21:23:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "더 어릴땐 결혼이 빨리하고 싶다 생각했는데 지금은 꼭 그렇지만도 않네요",
+          "summary": "나는 예전엔 결혼을 빨리하고 싶다 생각했지만 지금은 그렇지 않은 것 같다.",
+          "date": "2022-11-15",
+          "time": "08:41:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 저도 그렇게 생각을 하는데 저는 주거안정이 조금 되야 결혼을 할 꺼 같습니다 요즘 집값이 말이 아니잖아요 떨어지고 있긴하지만요",
+          "summary": "나는 결혼을 빨리 하는 게 좋다고 생각하지만 주거안정이 조금 되어야 결혼을 할 것 같다.",
+          "date": "2022-11-16",
+          "time": "21:33:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "맞아요 요즘 제 주변만 봐도 주거안정 및 경제적으로 준비가 안되어서 결혼을 미루는 사람들이 많아요",
+          "summary": "나의 주변 지인들은 주거안정 및 경제적으로 준비가 안되어서 결혼을 미루는 사람들이 많다.",
+          "date": "2022-11-17",
+          "time": "09:03:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 국가에서 지원해주는 프로그램도 많긴 하지만 지원하기 너무 까다롭고 또 그렇게 좋은환경도 아닌거 같더라고요",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "14:49:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "맞아요 조건이 까다롭고 소득기준이라던가 이런게 터무니없어서 대다수의 사람들이 혜택을 못 받더라구요",
+          "summary": "나는 국가에서 제공하는 주거 복지 시스템의 조건이 까다롭고 소득기준이 너무 터무니없어 대다수의 사람들이 혜택을 못 받는다 생각한다.",
+          "date": "2022-11-18",
+          "time": "18:19:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 참 아이러니한 상황인것 같습니다 평생일을 해도 집을 한채 못사다니 참 슬프네요",
+          "summary": "나는 평생 일을 해도 집을 한채 못 사는 현재 상황이 아이러니하다고 생각한다.",
+          "date": "2022-11-19",
+          "time": "12:23:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21649",
+          "participantID": "4058",
+          "utterance": "맞아요 이제 근로소득만으로는 집을 살 수 없는 시대가 되어버렸으니..",
+          "summary": "나는 이젠 근로소득 만으론 집을 살 수 없는 시대가 되어 버렸다 생각한다.",
+          "date": "2022-11-19",
+          "time": "20:14:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31111",
+          "participantID": "50126",
+          "utterance": "네네 그래서 나중엔 자기 일의 경력을 쌓으면 그거에 관련된 자기 일을 직접 해야 한다고 생각을 합니다 그렇게 되면 일 한 만큼 돈을 벌 수 있으니깐요",
+          "summary": "나는 자기 일의 경력을 쌓으면 그것에 관련된 자기 일을 직접 해야 한다고 생각한다.",
+          "date": "2022-11-20",
+          "time": "13:56:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 3주 만이다.",
+          "나도 회사 집을 반복하며 평범하게 살았다.",
+          "나는 1년 정도 만난 남자 친구가 있는데 슬슬 결혼 얘기가 나오고 있다.",
+          "나는 예전엔 결혼을 빨리하고 싶다 생각했지만 지금은 그렇지 않은 것 같다.",
+          "나의 주변 지인들은 주거안정 및 경제적으로 준비가 안되어서 결혼을 미루는 사람들이 많다.",
+          "나는 국가에서 제공하는 주거 복지 시스템의 조건이 까다롭고 소득기준이 너무 터무니없어 대다수의 사람들이 혜택을 못 받는다 생각한다.",
+          "나는 이젠 근로소득 만으론 집을 살 수 없는 시대가 되어 버렸다 생각한다."
+        ],
+        "speaker2": [
+          "나는 학생들 이과 수업하고 요즘 수행평가기간이라 아이들 수행평가를 지도해주면서 시간을 보냈다.",
+          "나는 결혼을 빨리 하는 게 좋다고 생각하지만 주거안정이 조금 되어야 결혼을 할 것 같다.",
+          "나는 평생 일을 해도 집을 한채 못 사는 현재 상황이 아이러니하다고 생각한다.",
+          "나는 자기 일의 경력을 쌓으면 그것에 관련된 자기 일을 직접 해야 한다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 요즘 날씨가 쌀쌀해져서 자주 외롭다.",
+          "나는 저번 주까지 시험공부 때문에 바빠서 못 놀았다.",
+          "나는 저번 주에 정보처리기사 자격증을 취득했다.",
+          "나는 노트북 활용을 잘한다.",
+          "나는 더운 여름이 싫다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 축구를 좋아해서 주말마다 축구동호회를 참석한다.",
+          "나는 중학교 영어교사이다. 나는 곧 기말고사 기간이라 시험문제를 만들어야 한다.",
+          "나는 비염이 심해지는 봄을 싫어한다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "FileInfo": {
+    "filename": "K2-00005-CL21412-CP21260-09-10-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50008",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0124",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00005"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21412",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 감사하다.",
+        "나는 대학생이다.",
+        "나는 소설을 꾸준히 읽는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21260",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 스트레스를 받는다.",
+        "나는 중학교 영어 교사이다.",
+        "나는 매운 음식을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-10",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "특수 반려동물"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00005-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "안녕하세요. 저는 20대 여자입니다. 나이가 어떻게 되요?",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-14",
+          "time": "17:06:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "안녕하세요. 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-14",
+          "time": "17:06:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "전 요즘 취미로 소설을 꾸준히 읽고 있어요. 소설 좋아하세요?",
+          "summary": "나는 소설을 꾸준히 읽는다.",
+          "date": "2022-09-14",
+          "time": "17:06:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "오, 저도 소설 좋아해요. 특히 판타지 소설 자주 읽어요.",
+          "summary": "나는 소설을 좋아한다. 나는 판타지 소설을 자주 읽는다.",
+          "date": "2022-09-14",
+          "time": "17:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "소설 너무 재밌죠. 전 웹툰도 너무 재밌어요. 매일매일 보는 웹툰이 정해져있어요. ㅋㅋ.",
+          "summary": "나는 웹툰이 재밌다.",
+          "date": "2022-09-14",
+          "time": "17:08:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "저도 그래요. 웹툰 보는재미가 있죠.",
+          "summary": "나는 웹툰을 본다.",
+          "date": "2022-09-14",
+          "time": "17:08:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "뭔가 통하는점이 많네요. ㅎㅎ 전 대학생이라서 그런지 시간적 여유가 있는 편이라서 웹툰이나 소설을 자주 봐요.",
+          "summary": "나는 대학생이다.",
+          "date": "2022-09-14",
+          "time": "17:08:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "전 중학교 영어 교사에요. 그래서 수업끝나고 쉬는시간에 웹툰 자주 봐요.",
+          "summary": "나는 중학교 영어 교사이다.",
+          "date": "2022-09-14",
+          "time": "17:10:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "쉬는 시간을 활용하시다니 좋은생각이에요. ㅎㅎ 전 중학교때 영어선생님을 너무 좋아해서 정말 열심히 공부 했던 기억이 나네요. ㅎㅎ @이름1@의 꿈과 희망이 되어주세요.",
+          "summary": "나는 중학교 때 영어공부를 열심히 했다.",
+          "date": "2022-09-14",
+          "time": "17:11:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "이야기 들으니 사명감 듣고 열심히 해야겠다는 생각이 드네요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:11:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "네, 영어를 포기하지 않고 꾸준히 하게 만든 선생님께 너무 감사해요. 담임선생님도 하세요?",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:11:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "작년에는 반을 맡아서 했는데 올해는 과목 수업만 하고 있어요.",
+          "summary": "나는 올해 영어 수업만 한다.",
+          "date": "2022-09-14",
+          "time": "17:12:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "요즘 중2병 말도 많은데 @이름1@이 말은 잘들어요?",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:12:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "생각보다 잘 따라 와줘요. 그래서 수업도 잘하고 있구요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:12:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "선생님을 사모하는 학생들이 있는건 아닐까요? ㅋㅋ 저 중학교때처럼요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:13:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "그런 마음이면 차라리 다행이네요. 공부할 생각이 있다는거니깐요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:13:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "ㅎㅎㅎ 그럴거게요. 화이팅입니다. 전 강의있어서 갑니다.",
+          "summary": "나는 강의가 있다.",
+          "date": "2022-09-14",
+          "time": "17:14:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "네, 저도 수업있어서 같이 화이팅해요.",
+          "summary": "나는 수업이 있다.",
+          "date": "2022-09-14",
+          "time": "17:14:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 소설을 꾸준히 읽는다.",
+          "나는 웹툰이 재밌다.",
+          "나는 대학생이다.",
+          "나는 중학교 때 영어공부를 열심히 했다.",
+          "나는 강의가 있다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 소설을 좋아한다. 나는 판타지 소설을 자주 읽는다.",
+          "나는 웹툰을 본다.",
+          "나는 중학교 영어 교사이다.",
+          "나는 올해 영어 수업만 한다.",
+          "나는 수업이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00005-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00005-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "강의 듣고나니 3시간 흘렀네요. 수업은 다 끝나셨어요?",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:14:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "네, 다 듣고 점심 먹었어요. 제가 매운음식을 싫어하는데 요즘 점심때마다 매운음식을 자주 먹어서 가끔 스트레스 받아요.",
+          "summary": "나는 매운 음식을 싫어한다. 나는 요즘, 가끔 스트레스를 받는다.",
+          "date": "2022-09-14",
+          "time": "17:15:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "원하는 음식이 아닌데 억지로 먹으면 스트레스 받죠.ㅠㅠ 전 요즘 학식이 맛있어서 가끔 감사한 마음이 들어요. 밥은 어디서 먹어요?",
+          "summary": "나는 요즘, 가끔 감사하다.",
+          "date": "2022-09-14",
+          "time": "17:16:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "학교 선생님들끼리 정기적으로 도시락 시켜 먹고 있어요. 그냥 따로 사먹어야 될까봐요.",
+          "summary": "나는 점심에 도시락을 시켜 먹는다.",
+          "date": "2022-09-14",
+          "time": "17:17:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "안맞으면 안 먹는게 맞죠. 그냥 따로 시켜 먹어요. 정기적으로 결제해요?",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:17:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "한달에 한번 결제 하고 있어요. 이번달까지만 참고 먹어야겠어요.ㅠㅠ.",
+          "summary": "나는 도시락을 한 달에 한번 결제한다.",
+          "date": "2022-09-14",
+          "time": "17:17:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "잘 생각했어요. 오후 강의 하나만 들으면 오늘 끝이네요. 오후에 수업있어요?",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:18:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "오늘은 오전 수업만 있어서 오후에 한가하네요.",
+          "summary": "나는 오늘 오전 수업만 있다.",
+          "date": "2022-09-14",
+          "time": "17:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "전 집 가서 앵무새를 키우고 있어서 관리해줘야되요. ㅠㅠ 혹시 반려동물 키우세요?",
+          "summary": "나는 앵무새를 키운다.",
+          "date": "2022-09-14",
+          "time": "17:19:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "앵무새도 집에서 키울수 있어요? 전 고양이 한마리 키우고 있어요.",
+          "summary": "나는 고양이 한 마리를 키운다.",
+          "date": "2022-09-14",
+          "time": "17:19:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "키울수 있어요. 얼마나 똑똑한대요. 진짜 말도 따라 하거든요.^^ 고양이도 손 많이 안가죠?",
+          "summary": "나의 앵무새는 말을 따라 한다.",
+          "date": "2022-09-14",
+          "time": "17:20:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "아무래도 강아지에 비해 손이 덜가죠. 너무 사랑스러워요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:20:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "앵무새도 손이 덜가요. ㅎㅎ 같이 말도 하고 재미도 있어요. 앵무새를 반려동물로 키우는 모임도 다니고 있어요.",
+          "summary": "나는 앵무새 키우는 모임이 있다.",
+          "date": "2022-09-14",
+          "time": "17:21:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "그런 모임도 있군요. 전 고양이 키우면서 다른 사람과 소통 해본적은 없어요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:21:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "모임에 가입하면 정보를 알수가 있으니 반려동물 키울때 도움이 많이 되요. 기회가 된다면 가입하시는게 좋아요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:22:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "아, 몰랐네요. 저도 한번 알아봐야 겠어요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:22:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21412",
+          "participantID": "50008",
+          "utterance": "오픈 채팅도 많으니 검색해봐요. 혹시 궁금한점 있으면 메시지 주시구요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:22:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21260",
+          "participantID": "0124",
+          "utterance": "감사해요. 검색해볼게요. 모르는거 있으면 물어볼게요.",
+          "summary": "",
+          "date": "2022-09-14",
+          "time": "17:22:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 요즘, 가끔 감사하다.",
+          "나는 앵무새를 키운다.",
+          "나의 앵무새는 말을 따라 한다.",
+          "나는 앵무새 키우는 모임이 있다."
+        ],
+        "speaker2": [
+          "나는 매운 음식을 싫어한다. 나는 요즘, 가끔 스트레스를 받는다.",
+          "나는 점심에 도시락을 시켜 먹는다.",
+          "나는 도시락을 한 달에 한번 결제한다.",
+          "나는 오늘 오전 수업만 있다.",
+          "나는 고양이 한 마리를 키운다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 소설을 꾸준히 읽는다.",
+          "나는 웹툰이 재밌다.",
+          "나는 대학생이다.",
+          "나는 중학교 때 영어공부를 열심히 했다.",
+          "나는 강의가 있다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 소설을 좋아한다. 나는 판타지 소설을 자주 읽는다.",
+          "나는 웹툰을 본다.",
+          "나는 중학교 영어 교사이다.",
+          "나는 올해 영어 수업만 한다.",
+          "나는 수업이 있다."
+        ]
+      }
+    }
+  ]
+}
