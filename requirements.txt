@@ -1,0 +1,4 @@
+youtube-comment-downloader
+transformers
+matplotlib
+torch
