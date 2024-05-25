@@ -17,6 +17,9 @@ from youtube_comment_downloader import *
 from transformers import pipeline
 import matplotlib.pyplot as plt
 
+plt.rc('font', family='NanumGothic')
+plt.rcParams['axes.unicode_minus'] = False
+
 downloader = YoutubeCommentDownloader()
 
 video_ids = ['DQU1M7eIJis', 'HfwDdLjaPC0', 'rlYdjc2_kJA&t=24s', 'YBEb7fUd7p4&t=23s']
@@ -41,25 +44,50 @@ def classify_sentiment(text):
     return label, score
 
 # 텍스트별로 감성 분류
-for text in text_values:
-    label, score = classify_sentiment(text)
-    is_positive = label == 'LABEL_1'  # 수정: 감성 분류 LABEL_1을 긍정으로 판단
-    print(f"텍스트: {text}")
-    print(f"감성 분류: {label}")
-    print(f"감성 점수: {score}")
-    print(f"긍정 여부: {is_positive}")
-    print()
+# for text in text_values:
+#     label, score = classify_sentiment(text)
+#     is_positive = label == 'LABEL_1'  # 수정: 감성 분류 LABEL_1을 긍정으로 판단
+#     print(f"텍스트: {text}")
+#     print(f"감성 분류: {label}")
+#     print(f"감성 점수: {score}")
+#     print(f"긍정 여부: {is_positive}")
+#     print()
 
 # True와 False의 개수 계산
-true_count = sum(1 for comment in text_values if classify_sentiment(comment)[0] == 'LABEL_1')
-false_count = len(text_values) - true_count
+# true_count = sum(1 for comment in text_values if classify_sentiment(comment)[0] == 'LABEL_1')
+# false_count = len(text_values) - true_count
 
 # 파이 차트 그리기
-labels = ['True', 'False']
-sizes = [true_count, false_count]
-colors = ['#ff9999', '#66b3ff']
-plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
-plt.axis('equal')
+# 데이터
+sizes = [60, 94]
+
+labels = ['긍정적인 댓글', '부정적인 댓글']
+colors = ['#66c2ff', '#ff9999']
+wedgeprops={'width': 0.8, 'edgecolor': 'w', 'linewidth': 2}
+explode = [0.05, 0.05]
+
+
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct * total / 100.0))
+        return f'{val}개\n({pct:.2f}%)'
+    return my_autopct
+
+
+
+plt.pie(sizes,
+        labels=labels, 
+        autopct=make_autopct(sizes), 
+        startangle=260, 
+        counterclock=False, 
+        explode=explode, 
+        shadow=True, 
+        colors=colors,
+        wedgeprops=wedgeprops
+        )
+
+
 plt.show()
 
 ## https://www.youtube.com/watch?v=DQU1M7eIJis (발달장애 ‘특수반’ 따로? “우리는 함께 배워요” / KBS 2022.04.25.)
