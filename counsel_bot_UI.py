@@ -103,7 +103,7 @@ def CPT():
 
     prompt_hint = ChatPromptTemplate.from_messages(messages_hint)
     chain_type_kwargs_hint = {"prompt": prompt_hint}
-    llm = ChatOpenAI(model_name="ft:gpt-3.5-turbo-0613:text-analysis::9R8gvZWo", temperature=0)
+    llm = ChatOpenAI(model_name="ft:gpt-3.5-turbo-0613:personal::9TeabPyM", temperature=0)
 
     #사고력을 기르기 위한 챗봇 생성
     chain_hint = RetrievalQAWithSourcesChain.from_chain_type(
