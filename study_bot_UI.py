@@ -115,7 +115,7 @@ def CPT():
         return result['answer']
 
 
-    st.caption('챗봇은 GPT-3.5를 학습시킨 결과로 응답을 제공합니다.')
+    st.caption('챗봇은 GPT-3.5-Turbo에 RAG 기술을 적용하여 제작되었습니다.')
     st.divider()
     st.header(f'믿음님, 반가워요:wave:')
     # st.markdown(":red[파이썬으로 00하는 방법이 궁금해.] 또는 :red[00하는 코드를 만들고 싶어.]와 같이 질문해 주세요!")
