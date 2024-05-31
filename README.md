@@ -25,22 +25,22 @@
 ---
 ### ✅ 첨부 링크
 
-> 1. 상담 챗봇 링크
-> thisabled_chatbot ∙ counselbot ∙ counsel_bot_start.py
-> 앱이 자고 있으면 깨워주세요!
->
-> 2. 학습 챗봇 링크
-> thisabled_chatbot ∙ studybot ∙ study_bot_start.py
-> 앱이 자고 있으면 깨워주세요!
->
-> 3. 파인튜닝을 위한 데이터셋 (한국어 멀티세션 대화)
-> https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71630
->
-> 4. 기초학력 지원센터 학습 자료
-> https://k-basics.org/
->
-> 5. 특수교육 통계
-> https://www.nise.go.kr/boardCnts/view.do?boardID=356&boardSeq=726678&lev=0&searchType=null&statusYN=W&page=1&s=nise&m=010502&opType=N
-
+> 1. 상담 챗봇 링크</br>
+> thisabled_chatbot ∙ counselbot ∙ counsel_bot_start.py</br>
+> 앱이 자고 있으면 깨워주세요!</br>
+></br>
+> 2. 학습 챗봇 링크</br>
+> thisabled_chatbot ∙ studybot ∙ study_bot_start.py</br>
+> 앱이 자고 있으면 깨워주세요!</br>
+></br>
+> 3. 파인튜닝을 위한 데이터셋 (한국어 멀티세션 대화)</br>
+> https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71630</br>
+></br>
+> 4. 기초학력 지원센터 학습 자료</br>
+> https://k-basics.org/</br>
+></br>
+> 5. 특수교육 통계</br>
+> https://www.nise.go.kr/boardCnts/view.do?boardID=356&boardSeq=726678&lev=0&searchType=null&statusYN=W&page=1&s=nise&m=010502&opType=N</br>
+</br>
 ---
 #### 읽어주셔서 감사합니다!!
