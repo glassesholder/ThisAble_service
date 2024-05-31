@@ -28,12 +28,10 @@
 ### ✅ 첨부 링크
 
 > 1. 상담 챗봇 링크
->
 > thisabled_chatbot ∙ counselbot ∙ counsel_bot_start.py
 > 앱이 자고 있으면 깨워주세요!
 >
 > 2. 학습 챗봇 링크
->
 > thisabled_chatbot ∙ studybot ∙ study_bot_start.py
 > 앱이 자고 있으면 깨워주세요!
 
