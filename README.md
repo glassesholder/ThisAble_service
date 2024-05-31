@@ -27,11 +27,11 @@
 
 ### ✅ 첨부 링크</br>
 > 1. 상담 챗봇 링크 </br>
-> [thisabled_chatbot ∙ counselbot ∙ counsel_bot_start.p](https://thisableservicecounselbot.streamlit.app/)y</br>
+> https://thisableservicecounselbot.streamlit.app/</br>
 > 앱이 자고 있으면 깨워주세요!</br>
 ></br>
 > 2. 학습 챗봇 링크 </br>
-> [thisabled_chatbot ∙ studybot ∙ study_bot_start.py](https://thisableservicestudybot.streamlit.app/)</br>
+> https://thisableservicestudybot.streamlit.app/</br>
 > 앱이 자고 있으면 깨워주세요!</br>
 ></br>
 > 3. 파인튜닝을 위한 데이터셋 (한국어 멀티세션 대화)</br>
