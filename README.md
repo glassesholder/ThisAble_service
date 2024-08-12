@@ -6,8 +6,8 @@
 > 제6회 교육 공공데이터 분석·활용대회(교육부 및 시도교육청 주최) 일반 부분 서비스/상품 분야에서 우수상을 수상했습니다 🎉
 
 <br>발표자료 및 서비스는 아래 링크를 통해 확인 부탁드립니다 😊
-[발표자료](https://github.com/glassesholder/ThisAble_service/blob/main/ThinsAble_%EB%96%A1%EC%9E%8E%EB%B0%A9%EB%B2%94%EB%8C%80.pdf)
-[ThisAble] https://02shin00.wixstudio.io/thisable ( 태블릿 또는 웹 사이트를 태블릿 크기로 조정 후 확인 필수 )
+<br>[발표자료](https://github.com/glassesholder/ThisAble_service/blob/main/ThinsAble_%EB%96%A1%EC%9E%8E%EB%B0%A9%EB%B2%94%EB%8C%80.pdf)
+<br>[ThisAble] https://02shin00.wixstudio.io/thisable ( 태블릿 또는 웹 사이트를 태블릿 크기로 조정 후 확인 필수 )
 
 <br>안녕하세요!
 다음 repository에서 확인하실 수 있는 python 코드는 다음과 같습니다.
