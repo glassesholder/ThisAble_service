@@ -50,6 +50,6 @@
 >
 > https://www.nise.go.kr/boardCnts/view.do?boardID=356&boardSeq=726678&lev=0&searchType=null&statusYN=W&page=1&s=nise&m=010502&opType=N
 
-
+https://github.com/glassesholder/ThisAble_service/blob/main/ThinsAble_%EB%96%A1%EC%9E%8E%EB%B0%A9%EB%B2%94%EB%8C%80.pdf
 ---
 읽어주셔서 감사합니다!
